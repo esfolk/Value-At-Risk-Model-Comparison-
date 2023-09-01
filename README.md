@@ -1,14 +1,12 @@
-# Value-At-Risk-Model-Comparison-
+# Value-At-Risk-Model-Comparison
 
 Scientific Paper written by Dany Cajas designed in simple OOP format. 
 
-Certainly! Here's a summary suitable for a GitHub README:
-
----
-
 # Value at Risk (VaR) Models Analysis
 
-In this repository, we delve into various Value at Risk (VaR) models to assess the potential losses an investment portfolio might face over a specified period for a given confidence interval. VaR models are essential tools in risk management and quantitative finance.
+In this repository, I delve into various Value at Risk (VaR) models to assess the potential losses an investment portfolio might face over a specified period for a given confidence interval. VaR models are essential tools in risk management and quantitative finance.
+
+Original work covered by Dany Cajas. 
 
 ## Models Covered:
 
