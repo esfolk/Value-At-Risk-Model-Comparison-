@@ -41,7 +41,3 @@ rlvar = risk_measures.RLVaR(portfolio_losses)
 ## Conclusion:
 
 This repository provides a comprehensive analysis of various VaR models, aiding in the assessment of potential portfolio losses. By understanding these risk measures, investors and financial analysts can make more informed decisions regarding portfolio management and risk mitigation.
-
----
-
-Feel free to customize this README further to fit the specifics of your GitHub repository or any additional details you'd like to include.
